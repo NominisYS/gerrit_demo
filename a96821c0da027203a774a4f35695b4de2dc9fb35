@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "548e0f54_09b5bdd0",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1015855
+      },
+      "writtenOn": "2019-02-06T21:22:38Z",
+      "side": 1,
+      "message": "java is good. You may want to try golang.",
+      "revId": "a96821c0da027203a774a4f35695b4de2dc9fb35",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
